@@ -30,7 +30,7 @@ EthernetClient client;
 int8_t answer;
 int onModulePin = 6;
 char aux_string[30];
-char phone_number[] = "+33768482934";
+char phone_number[] = "+33000000000";
 
 // Déclaration LEDS
 int LedRouge = A2;
